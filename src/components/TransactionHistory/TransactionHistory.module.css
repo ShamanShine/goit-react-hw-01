@@ -1,0 +1,20 @@
+.space {
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+.space th,
+.space td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.head {
+    color: white;
+    background-color: black;
+}
+
+.space tbody tr:nth-child(even) {
+    background-color: grey;
+}

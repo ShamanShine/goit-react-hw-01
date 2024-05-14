@@ -1,0 +1,66 @@
+.container {
+    background-color: #f0f0f0;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px 10px 0 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 250px;
+    border-bottom: 2px solid grey;
+    margin: 0 auto;
+
+}
+
+.container p {
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+
+.foto {
+    border-radius: 50%;
+    width: 150px;
+    background-color: black;
+}
+
+.name {
+    font-size: 30px;
+    color: rgb(18, 17, 17);
+    font-style: normal;
+    font-weight: bold;
+
+}
+
+.fild {
+    border: 2px solid black;
+    margin-top: auto;
+    border-radius: 0 0 10px 10px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-left: 0px;
+    width: 285px;
+    list-style-type: none;
+    border-top-width: 0;
+    padding-left: 5px;
+    border-top: none;
+    margin: 0 auto;
+    background-color: darkgray;
+}
+
+.followers {
+    border-right: 1px solid grey;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
+
+.views {
+    border-right: 1px solid grey;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
+
+.boldText {
+    font-weight: bold;
+}
