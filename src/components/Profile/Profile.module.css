@@ -7,13 +7,11 @@
     width: 250px;
     border-bottom: 2px solid grey;
     margin: 0 auto;
-
 }
 
 .container p {
     margin-top: auto;
     margin-bottom: auto;
-
 }
 
 .foto {
@@ -27,7 +25,6 @@
     color: rgb(18, 17, 17);
     font-style: normal;
     font-weight: bold;
-
 }
 
 .fild {
